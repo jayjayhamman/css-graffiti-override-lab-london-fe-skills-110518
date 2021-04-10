@@ -2,7 +2,10 @@ body {
   background: black url(../images/sketch.jpg) no-repeat center;
   background-size: cover;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 378c8bdee36178a6e2794845d0a3e51a5570e86b
 #wall {
   position: relative;
   margin: 40px auto;
@@ -24,42 +27,77 @@ body {
   height: 622px;
 }
 
+<<<<<<< HEAD
 #wall .tag-1 {
+=======
+.tag-1 {
+>>>>>>> 378c8bdee36178a6e2794845d0a3e51a5570e86b
   background: url(../images/tag-1.png) no-repeat;
   z-index: 7;
   display: none;
 }
 
+<<<<<<< HEAD
 div#wall #tag-2 {
+=======
+#wall #tag-2 {
+>>>>>>> 378c8bdee36178a6e2794845d0a3e51a5570e86b
   background: url(../images/tag-2.png) no-repeat;
   z-index: 6;
   display: none;
 }
+<<<<<<< HEAD
 div#wall div#tag-3.slick {
+=======
+
+div#wall #tag-3.slick {
+>>>>>>> 378c8bdee36178a6e2794845d0a3e51a5570e86b
   background: url(../images/tag-3.png) no-repeat;
   z-index: 5;
   display: none;
 }
+<<<<<<< HEAD
  div#wall .parent #tag-4 {
+=======
+
+#wall #tag-4 {
+>>>>>>> 378c8bdee36178a6e2794845d0a3e51a5570e86b
   background: url(../images/tag-4.png) no-repeat;
   z-index: 4;
   display: none;
 }
+<<<<<<< HEAD
 div#wall .parent div#tag-5.slick {
+=======
+
+div#wall .parent #tag-5.slick {
+>>>>>>> 378c8bdee36178a6e2794845d0a3e51a5570e86b
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
   display: none;
 }
 
+<<<<<<< HEAD
 body div#wall div.parent div:last-child div#tag-6 {
+=======
+div#wall div.parent div:last-child div#tag-6 {
+>>>>>>> 378c8bdee36178a6e2794845d0a3e51a5570e86b
   background: url(../images/tag-6.png) no-repeat;
   z-index: 2;
   display: none;
 }
 
+<<<<<<< HEAD
 body div#wall div.parent div:first-child #tag-7.slick {
   background: url(../images/tag-7.png) no-repeat;
   z-index: 1;
   display: none;
 }
 
+=======
+body div#wall div.parent div > #tag-7.slick {
+  background: url(../images/tag-7.png) no-repeat;
+  z-index: 1;
+  display: none;
+}
+>>>>>>> 378c8bdee36178a6e2794845d0a3e51a5570e86b
